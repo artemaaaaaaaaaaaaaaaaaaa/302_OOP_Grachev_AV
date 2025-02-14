@@ -34,14 +34,12 @@ function runTest(): void
 
     echo "Тест скалярного произведения:" . PHP_EOL;
     $scalar = $v1->scalarProduct($v2);
-    // Вычисление: 1*1 + 2*4 + 3*(-2) = 1 + 8 - 6 = 3
     echo "Ожидается: 3" . PHP_EOL;
     echo "Получено: " . $scalar . PHP_EOL;
     echo PHP_EOL;
 
     echo "Тест векторного произведения:" . PHP_EOL;
     $v6 = $v1->vectorProduct($v2);
-    // Вычисление: (2*(-2) - 3*4, 3*1 - 1*(-2), 1*4 - 2*1) = (-4 -12, 3+2, 4-2) = (-16; 5; 2)
     echo "Ожидается: (-16; 5; 2)" . PHP_EOL;
     echo "Получено: " . $v6 . PHP_EOL;
     echo PHP_EOL;
