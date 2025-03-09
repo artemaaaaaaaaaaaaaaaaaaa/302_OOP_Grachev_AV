@@ -1,0 +1,16 @@
+{
+    "name": "artyo/task03",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "App\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "artemaaaaaaaaaaaaaaaaaaa",
+            "email": "artm-grachev@mail.ru"
+        }
+    ],
+    "require": {}
+}
