@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'artyo/task04',
+        'name' => '__root__',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '1c743c692c5dbf3617978bf7aa1ffe94612f4a9e',
+        'reference' => 'cdd7c195bec5a1436feec959cac1122068789349',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'artyo/task04' => array(
+        '__root__' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '1c743c692c5dbf3617978bf7aa1ffe94612f4a9e',
+            'reference' => 'cdd7c195bec5a1436feec959cac1122068789349',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
