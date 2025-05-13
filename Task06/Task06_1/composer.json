@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "andrey/01_strategy",
   "authors": [
     {
@@ -13,3 +14,23 @@
     }
   }
 }
+=======
+    "name": "task06/task06-1",
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit --color=always tests"
+    }
+}
+>>>>>>> student/Task06

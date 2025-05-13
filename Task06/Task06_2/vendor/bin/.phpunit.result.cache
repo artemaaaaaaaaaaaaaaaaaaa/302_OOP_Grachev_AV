@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"RoomTest::testEconomyRoom":0.009,"RoomTest::testStandardRoomWithInternet":0.001,"RoomTest::testLuxuryRoomWithMultipleServices":0.001,"RoomTest::testEconomyRoomWithInternetAndSofa":0.001,"RoomTest::testLuxeRoomWithBreakfastAndDinner":0,"RoomTest::testStandardRoomWithoutDecorators":0,"RoomTest::testMultipleDecorators":0}}
